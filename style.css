@@ -1,0 +1,35 @@
+.a{
+text-align: center;
+background-color: rgb(4, 35, 96);
+
+}
+.b{
+    border-collapse: collapse;
+    width: 3000px;
+    text-align: center;
+    
+}
+td{
+    border: 2px solid rgb(255, 255, 255) ;
+    width: 200px;
+    color: aliceblue;
+}
+.g{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+.d{
+    color: white;   
+    background-color: black;
+    width: 700px;
+}
+.j{
+    color: white;
+    background-color: black;
+    width: 700px;
+}
+div{
+    text-align: center;
+}
